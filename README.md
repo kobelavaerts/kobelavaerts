@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a bioinformatician at the [VIB Nucleomics Core](https://nucleomicscore.sites.vib.be/en)
+- Teaching the [VIB Nextflow training](https://github.com/vibbits/nextflow-workshop) twice a year
